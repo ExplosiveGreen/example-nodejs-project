@@ -1,0 +1,5 @@
+# install guide
+run: npm install
+change .env-example to .env and change the secret key
+change config/config-example.json to config/config.json and change the database configuration
+run: npm start
